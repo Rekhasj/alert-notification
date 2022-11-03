@@ -1,0 +1,37 @@
+.alert-notification-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.alert-heading {
+  font-size: 30px;
+  color: #0f172a;
+}
+
+.notification-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.success {
+  color: #2dca73;
+  margin: 10px;
+}
+
+.notification-details {
+  font-size: 15px;
+  color: #64748b;
+  padding-left: 10px;
+}
+.error {
+  color: #ff0b37;
+}
+.warning {
+  color: #ffb800;
+}
+.info {
+  color: #0f81e0;
+}
+.notification-card {
+  width: 80%;
+}

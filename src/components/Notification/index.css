@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.notification {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  border: 1px solid #64748b;
+  margin: 10px;
+  padding: 10px;
+}
+
+.name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-right: 50px;
+  width: 500px;
+}
